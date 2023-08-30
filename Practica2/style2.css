@@ -1,0 +1,52 @@
+html
+{
+    
+    scroll-behavior: smooth;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    background-color:rgb(10, 12, 138);
+    color: rgb(255, 255, 255);
+    font-size: 16px;
+}
+
+a:hover {
+    color:cornflowerblue;
+    background-color:darkslategrey;
+  }
+
+  #Indice {
+    border-bottom-style: dotted;
+    border-bottom-color:silver;
+  }
+
+  #InfoGeneral {
+    border-bottom-style: dotted;
+    border-bottom-color:silver;
+  }
+
+  #Sinopsis {
+    border-bottom-style: dotted;
+    border-bottom-color:silver;
+  }
+
+  #Temporadas {
+    border-bottom-style: dotted;
+    border-bottom-color:silver;
+  }
+
+  #Personajes {
+    border-bottom-style: dotted;
+    border-bottom-color:silver;
+  }
+
+  #DondeVer {
+    border-bottom-style: dotted;
+    border-bottom-color:silver;
+  }
+
+  .Fotos {
+    max-width: 100%;
+  }
+
+  .tabla{
+    width: 100%;
+  }
