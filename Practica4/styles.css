@@ -28,6 +28,7 @@ a:hover {
 
 img{
     max-width: 100%;
+    border-radius: 50%;
     }
 
 iframe{
@@ -44,4 +45,8 @@ table{
         text-align: center;
         border-bottom-color:silver;
      }
+
+#Encabezados{
+  color: darkslateblue;
+}
       
