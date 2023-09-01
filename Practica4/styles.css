@@ -1,0 +1,47 @@
+
+:root {
+    --color-primary: #be90dd;
+    --color-dark: #430752;
+    
+  }
+
+html
+{
+    background-color:var(--color-dark);
+    color:var(--color-primary);
+    font-size: 20px;
+    font-family: "Josefin+Sans",sans-serif;
+}
+
+
+#Header {
+    
+    border-bottom-style:dashed;
+    border-bottom-color:silver;
+  }
+
+
+a:hover {
+        color:rgb(199, 176, 221);
+        background-color:rgb(51, 54, 54);
+      }
+
+img{
+    max-width: 100%;
+    }
+
+iframe{
+        max-width: 100%;
+        }
+
+table{
+     max-width: 100%;
+     text-align: center;
+     }
+
+#contenido{
+        border-bottom: 3px double;
+        text-align: center;
+        border-bottom-color:silver;
+     }
+      
